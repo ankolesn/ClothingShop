@@ -19,7 +19,7 @@
                     <div class="container">
                         <div class="carousel-caption">
                             <a href="/images/${image.id}">
-                                <img class="product" style="height: 1200px; width: 1800px" src="/images/${image.id}">
+                                <img class="product" style="height: 500px; width: 500px" src="/images/${image.id}">
                             </a>
                         </div>
                     </div>

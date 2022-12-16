@@ -10,8 +10,8 @@
                 <label for="gender">Пол</label>
                 <select id="gender" name="gender" class="form-control">
                     <option value="-1">Сбросить</option>
-                    <option value="0">Женский</option>
-                    <option value="1">Мужской</option>
+                    <option value="0">Мужской</option>
+                    <option value="1">Женский</option>
                 </select>
             </div>
             <div class="form-group col-md-2">
